@@ -1,4 +1,2 @@
-# Veebirakenduste Loomine
+# Veebirakenduste loomine TARge25
 
-Marcus Grünberg
-Veebirakenduste Loomine TARge25
